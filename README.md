@@ -1,2 +1,2 @@
-# ml-talentmatch-ads
-Repo for hackathon
+# Репозиторий команды ADS
+
